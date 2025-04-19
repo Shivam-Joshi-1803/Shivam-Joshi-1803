@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Joshi</h1>
-<h3 align="center">B.Tech | Developer | Cybersecurity Enthusiast | AI Explorer</h3>
+<h3 align="center">B.Tech Student | Web Dev | AI Explorer | Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Developer+from+India.;AI+%7C+Web+%7C+Security+%7C+Automation.;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%9A%80;Cybersecurity+Learner+%F0%9F%94%91;AI+%2B+Web+Dev+%F0%9F%A7%A1%EF%B8%8F;Always+Learning+%E2%9C%A8" alt="Typing Animation" />
 </p>
 
 ---
