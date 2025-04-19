@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Developer+from+India.;AI+%7C+Web+%7C+Security+%7C+Automation.;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
-<br>
 ---
 
 ### 🧑‍💻 About Me
