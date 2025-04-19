@@ -15,6 +15,10 @@
 - 💡 Learning ethical hacking, ML models, and advanced frontend frameworks  
 - ⚡ Fun fact: I made my own J.A.R.V.I.S. 🤖
 
+![BTech Student](https://img.shields.io/badge/Student-B.Tech-blue)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
+![Hackathon](https://img.shields.io/badge/Hackathons-Winner-orange)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -45,13 +49,20 @@
 | 🤖 Telegram Bot | Android Studio | Automated Telegram interaction |
 
 ---
-
+<!--
 ### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Joshi-1803&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Joshi-1803&layout=compact&theme=tokyonight" />
 </p>
+-->
+
+### 🚀 Featured Projects
+
+- 🔒 [Silent Voice](https://github.com/Shivam-Joshi-1803/silent-voice) – ISL ↔ Speech Converter  
+- 🧥 [Virtual Try-On](https://github.com/Shivam-Joshi-1803/virtual-try-on) – AI-based fashion fitting  
+- 💸 [Smart Splitter](https://github.com/Shivam-Joshi-1803/smart-splitter) – Group expense manager  
 
 ---
 
