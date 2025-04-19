@@ -48,6 +48,7 @@
 | 📚 E-Case Portal | React, Node | Case mgmt. with chat & scheduling |
 | 🤖 Telegram Bot | Android Studio | Automated Telegram interaction |
 
+- There Are More Coustom Projects Like This 
 ---
 <!--
 ### 📈 GitHub Activity
